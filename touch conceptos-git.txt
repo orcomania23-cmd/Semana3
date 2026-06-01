@@ -1,14 +1,15 @@
 explicacion de cada uno de estos conceptos.
 
 Repositorio : 
+ es nuestro espacio de trabajo donde guardamos tofos los cambios que hacemos en nuestro proyecto.
+
+
+Commit: es un comando que nos permite guardar nuestros cambios en momentos específicos para no perder el progreso  de nuestro proyecto
 
 
 
-Commit: 
+Push: este comando nos permite enlazar nuestros cambios desde nuestro repositorio local a uno remoto para poder compartir nuestro proyecto con otras personas.
 
-
-
-Push: 
 
 
 
