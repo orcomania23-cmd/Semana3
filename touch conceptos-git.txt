@@ -1,6 +1,14 @@
 explicacion de cada uno de estos conceptos.
 
-Repositorio
-Commit
-Push
-Cada explicación debe tener al menos 2 o 3 líneas
+Repositorio : 
+
+
+
+Commit: 
+
+
+
+Push: 
+
+
+
