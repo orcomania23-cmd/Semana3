@@ -1,3 +1,5 @@
+explicacion de cada uno de estos conceptos.
+
 Repositorio
 Commit
 Push
